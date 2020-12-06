@@ -1,0 +1,25 @@
+BUILDING PORTFOLIO WEBSITE + DATA CONNECTIVITY
+
+Tech stack:
+Editor: Notepad++, webhost000 editor
+Front end - BOOTSTRAP, JSS, CSS, SASS
+Backend - PHP, myphpadmin
+Hosting - webhost000.com
+
+
+My learning:
+
+1) What I knew before:
+Backend - PYTHON, DJANGO, PYCHARM
+Front end - BOOTSTRAP, CSS JSS
+
+2) ERRORS Through which i have learnt:
+Parse errors, index values not found 
+sessions, session variables and headers errors
+Data connectivity errors related to mismatch of data types
+
+3) Effects: Parallax effect, counter effect(js), animation effects
+
+
+
+
